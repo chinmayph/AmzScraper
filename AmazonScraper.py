@@ -1,4 +1,4 @@
-# this code is replicated from the youtube video of John Watson Rooney. 
+# this code is replicated from the youtube video of John Watson Rooney. At present, it takes the URL of Kindle unlimited books for 'marathi' and scrapes the title names and links to a csv file.
 
 from requests_html import HTMLSession
 from bs4 import BeautifulSoup
